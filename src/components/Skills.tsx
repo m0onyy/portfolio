@@ -1,14 +1,17 @@
 import { motion } from "framer-motion";
 
 const skills = [
-  { name: "XML", level: 30 },
-  { name: "JavaScript", level: 40 },
   { name: "HTML", level: 85 },
   { name: "CSS", level: 75 },
-  { name: "Lua", level: 30 },
+  { name: "JavaScript", level: 40 },
   { name: "Swift", level: 45 },
-  { name: "Tailwind CSS", level: 20 },
   { name: "Bootstrap JS", level: 35 },
+  { name: "XML", level: 30 },
+  { name: "Lua", level: 30 },
+  { name: "Tailwind CSS", level: 20 },
+  { name: "Next.js", level: 20 },
+  { name: "Ruby", level: 5 },
+  { name: "Node.js", level: 5 },
 ];
 
 export const Skills = () => {
