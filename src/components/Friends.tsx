@@ -14,6 +14,12 @@ const friends = [
     url: "https://guns.lol/dack",
   },
   {
+    name: "Daisuke",
+    description: "cool web developer and i own discord.gg/ipasign",
+    image: "https://avatars.githubusercontent.com/u/179164741?v=4",
+    url: "https://ipasign.pro",
+  },
+  {
     name: "BrocoDev",
     description: "I'm BrocoDev, an iOS and game developer.",
     image: "https://avatars.githubusercontent.com/u/60705848?v=4",
