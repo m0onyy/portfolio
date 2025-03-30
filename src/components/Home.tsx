@@ -98,7 +98,7 @@ export const Home = () => {
               <Button
                 variant="secondary"
                 className="group relative overflow-hidden hover:shadow-lg hover:shadow-purple-500/20 transition-all duration-300"
-                onClick={() => window.open("https://discord.com/users/827682781844471908", "_blank")}
+                onClick={() => window.open("https://discord.com/users/1356000602697633882", "_blank")}
               >
                 <span className="absolute inset-0 bg-gradient-to-r from-purple-500/20 to-indigo-500/20 transform translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
                 <MessageCircle className="w-5 h-5 mr-2 group-hover:scale-110 transition-transform" />
